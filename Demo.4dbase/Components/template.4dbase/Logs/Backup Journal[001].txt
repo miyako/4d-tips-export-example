@@ -1,0 +1,6 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Desktop:Demo.4dbase:Components:template.4dbase:template[0001].4BK
+Scheduled : 13/10/02 15:49:09
+Starting : 13/10/02 15:49:09
+Ending : 13/10/02 15:49:10
+
